@@ -1,4 +1,10 @@
-## Hi there 👋
+# dev-jaser
+
+> - 🔭 Working towards AAB in Programming & Development @CCC.
+> - 🌱 Currently learning Scripting w/ Python, Networking Fundamentals & Cybersecurity.
+
+![S](https://i.pinimg.com/736x/f6/9a/7b/f69a7bf9915c2f40860a66b238154921.jpg)
+
 
 <!--
 **dev-jaser/dev-jaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
