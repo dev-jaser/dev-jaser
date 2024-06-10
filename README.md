@@ -4,9 +4,9 @@
 > - 🌱 Currently learning Scripting w/ Python, Networking Fundamentals & Cybersecurity.
 
 
-<div style="display: flex; height: auto;">
-    <img src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="Image 1" style="width: auto; height: fit-content;">
-    <img src="https://i.pinimg.com/736x/ad/24/39/ad24392deb16d10e89a0276e4c3cd979.jpg" alt="Image 2" style="width: auto; height: 50%;">
+<div style="display: flex;">
+    <img src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="Image 1" style="width: auto;">
+    <img src="https://i.pinimg.com/736x/ad/24/39/ad24392deb16d10e89a0276e4c3cd979.jpg" alt="Image 2" style="width: auto;">
 </div>
 
 
