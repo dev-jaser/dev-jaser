@@ -1,9 +1,13 @@
-# dev-jaser
+# Hello, World! I'm dev-jaser
 
 > - 🔭 Working towards AAB in Programming & Development @CCC.
 > - 🌱 Currently learning Scripting w/ Python, Networking Fundamentals & Cybersecurity.
 
-![S](https://i.pinimg.com/736x/f6/9a/7b/f69a7bf9915c2f40860a66b238154921.jpg)
+
+<div style="display: flex; height: auto;">
+    <img src="https://i.pinimg.com/236x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" alt="Image 1" style="width: auto; height: fit-content;">
+    <img src="https://i.pinimg.com/736x/ad/24/39/ad24392deb16d10e89a0276e4c3cd979.jpg" alt="Image 2" style="width: auto; height: 50%;">
+</div>
 
 
 <!--
@@ -19,4 +23,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+  </tr>
+  <tr>
+    <td>Data 1</td>
+    <td>Data 2</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/xJB6x/repository/build.yml?style=flat-square">
+</p>
+
+
+
 -->
