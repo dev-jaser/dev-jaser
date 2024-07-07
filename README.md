@@ -1,7 +1,7 @@
 # Hello, World! I'm dev-jaser
 
-> - 🔭 Working towards AAB in Programming & Development @CCC.
-> - 🌱 Currently learning Scripting w/ Python, Networking Fundamentals & Cybersecurity.
+## > - 🔭 Working towards AAB in CyberSecurity @CCC
+## > - 🌱 Currently learning Scripting w/ Python, Networking Fundamentals & Cybersecurity.
 
 
 <div style="display: flex;">
