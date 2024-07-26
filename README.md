@@ -1,7 +1,8 @@
 # Hello, World! I'm dev-jaser
 
-## > - 🔭 Working towards AAB in CyberSecurity @CCC
-## > - 🌱 Currently learning Scripting w/ Python, Networking Fundamentals & Cybersecurity.
+#### Aspiring Software Developer with a strong background in web and mobile app development, specializing in JavaScript, HTML, CSS, Python, C#, and Java. Currently focused on building and customizing computer solutions for small businesses and home offices through my venture, Apex Offices LLC. I offer comprehensive office setup services, including equipment acquisition, installation, and network setup, with an emphasis on creating smart offices using cutting-edge IoT devices.
+
+With a passion for technology and problem-solving, I have honed my skills through various projects, which are showcased on my GitHub. I am dedicated to helping clients find the best solutions within any budget and continuously seek opportunities to grow my expertise and contribute to innovative projects.
 
 
 <div style="display: flex;">
