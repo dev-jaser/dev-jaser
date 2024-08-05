@@ -6,7 +6,7 @@ With a passion for technology and problem-solving, I have honed my skills throug
 
 
 <div style="display: flex;">
-    <img src="https://i.pinimg.com/736x/ad/24/39/ad24392deb16d10e89a0276e4c3cd979.jpg" alt="Image 2" style="width: auto;">
+    <img src="https://i.imgur.com/9G8fhoz.jpeg" alt="Image 2" style="width: auto;">
 </div>
 
 
