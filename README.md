@@ -1,8 +1,16 @@
 # Hello, World! I'm dev-jaser
 
-### Aspiring Software Developer with a strong background in web and mobile app development, specializing in JavaScript, HTML, CSS, Python, C#, and Java. Currently focused on building and customizing computer solutions for small businesses and home offices through my venture, Apex Offices LLC. I offer comprehensive office setup services, including equipment acquisition, installation, and network setup, with an emphasis on creating smart offices using cutting-edge IoT devices.
+### I’m a dedicated cybersecurity student and software developer with a passion for secure software development, encryption, and IT system security. My journey began in programming—developing web and mobile applications with JavaScript, HTML, CSS, Python, C#, and Java—before I transitioned into cybersecurity to deepen my expertise in safeguarding digital assets, securing data, and ensuring system integrity.
 
-With a passion for technology and problem-solving, I have honed my skills through various projects, which are showcased on my GitHub. I am dedicated to helping clients find the best solutions within any budget and continuously seek opportunities to grow my expertise and contribute to innovative projects.
+Today, as an IT: Cybersecurity student and hands-on practitioner, I specialize in building secure applications and designing intuitive cybersecurity solutions. My focus spans application security, secure authentication methods, and crafting innovative approaches that balance robust protection with user-friendly design. With a proven track record in leading technical projects, I excel in mitigating risks, protecting critical infrastructures, and delivering secure, scalable solutions. 
+
+I am continuously learning and trying to add to my existing knowledge on all things related to computer science. 
+
+🌱 I’m currently studying for my certifications in CompTIA A+, CompTIA Security+, CompTIA Server+, & Cisco CCNA 200-301.
+
+My expertise extends to network security, penetration testing, and secure application design, all supported by a strong foundation in Agile methodologies and detailed technical documentation. I thrive in high-pressure environments where precision and collaboration are key, and I am driven by a commitment to making advanced security accessible without sacrificing usability.
+
+Explore my GitHub portfolio to see how I bring secure technology solutions to life—and let’s connect to shape a safer, more resilient digital future together.
 
 
 <div style="display: flex;">
