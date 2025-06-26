@@ -9,8 +9,8 @@
 Skilled in Python, PyTorch, network security, and HPC environments. Experienced in building clean, modular ML pipelines from data ingestion to inference and evaluation. My work bridges academic research with applied engineering, emphasizing reproducibility, performance, and scientific clarity.
 
 Driven by curiosity, clarity, and meaningful contribution — whether I’m training CNNs on spectral data, configuring VLANs, or building tools to help others learn better and safer tech.
+### 🔬 AIRE 2025 Research Intern  
 
-## 🔬 AIRE 2025 Research Intern  
 #### 🔐 `Cybersecurity & IT` | `ML` | `HPC` | `Git` | `Spectroscopy` | `Python`  
 </div>
 <!-- 
